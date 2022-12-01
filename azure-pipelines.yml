@@ -11,7 +11,7 @@ variables:
   azureServiceConnectionId: '9f633d54-56f7-4527-bfb0-afb03f946dfa'
 
   # Web app name
-  webAppName: 'LAB5'
+  webAppName: 'LAB5-cloudcomputing'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
