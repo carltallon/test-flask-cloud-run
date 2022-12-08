@@ -1,0 +1,42 @@
+h1 {
+    text-align: center;
+}
+
+body,html {
+    margin: 0px;
+    border-style: solid;
+    background-color: grey;
+    max-width: 1600px;
+    margin: auto;
+    padding: 10px;
+}
+
+
+footer {
+    text-align: center;
+    padding: 20px;
+}
+
+table {
+    border: 2px solid black;
+
+}
+
+td {
+    border: 2px solid black;
+}
+
+th {
+    border: 2px solid black;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+    border-radius: 0%;
+    margin-left: 650px;
+}
+
+figcaption {
+    margin-left: 670px;
+}
