@@ -1,10 +1,10 @@
-from flask import Flask
+from flask import Flask, render_template
 from flask import request
 app = Flask(__name__)
 
 @app.route("/")
 def hello():
-    return "Hello yet again from Carl Tallon's Flask App"
+    return render_template('index.html') 
 
 @app.route("/route32a")
 def route32a():
